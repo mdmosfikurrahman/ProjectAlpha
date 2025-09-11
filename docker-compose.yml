@@ -1,0 +1,19 @@
+version: "3.9"
+
+networks:
+  epde:
+    external: true
+
+services:
+  projectbeta:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: projectalpha-api
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=http://+:8080
+    ports:
+      - "5100:8080"
+    networks:
+      - epde
