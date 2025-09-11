@@ -2,9 +2,9 @@
 .idea/
 .vscode/
 
-# Build outputs
-bin/
-obj/
+# Build outputs (match in all subfolders)
+**/bin/
+**/obj/
 out/
 
 # User-specific
