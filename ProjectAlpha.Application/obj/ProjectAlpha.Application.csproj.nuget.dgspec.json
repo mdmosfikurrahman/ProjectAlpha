@@ -1,0 +1,225 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Application/ProjectAlpha.Application.csproj": {}
+  },
+  "projects": {
+    "/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Application/ProjectAlpha.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Application/ProjectAlpha.Application.csproj",
+        "projectName": "ProjectAlpha.Application",
+        "projectPath": "/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Application/ProjectAlpha.Application.csproj",
+        "packagesPath": "/home/mosfik/.nuget/packages/",
+        "outputPath": "/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/mosfik/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Domain/ProjectAlpha.Domain.csproj": {
+                "projectPath": "/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Domain/ProjectAlpha.Domain.csproj"
+              },
+              "/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Shared/ProjectAlpha.Shared.csproj": {
+                "projectPath": "/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Shared/ProjectAlpha.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.109/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Domain/ProjectAlpha.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Domain/ProjectAlpha.Domain.csproj",
+        "projectName": "ProjectAlpha.Domain",
+        "projectPath": "/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Domain/ProjectAlpha.Domain.csproj",
+        "packagesPath": "/home/mosfik/.nuget/packages/",
+        "outputPath": "/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/mosfik/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.109/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Shared/ProjectAlpha.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Shared/ProjectAlpha.Shared.csproj",
+        "projectName": "ProjectAlpha.Shared",
+        "projectPath": "/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Shared/ProjectAlpha.Shared.csproj",
+        "packagesPath": "/home/mosfik/.nuget/packages/",
+        "outputPath": "/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/mosfik/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.109/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

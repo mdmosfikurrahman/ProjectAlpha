@@ -1,0 +1,12 @@
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Shared/bin/Debug/net9.0/ProjectAlpha.Shared.deps.json
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Shared/bin/Debug/net9.0/ProjectAlpha.Shared.dll
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Shared/bin/Debug/net9.0/ProjectAlpha.Shared.pdb
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Shared/obj/Debug/net9.0/ProjectAlpha.Shared.csproj.AssemblyReference.cache
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Shared/obj/Debug/net9.0/ProjectAlpha.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Shared/obj/Debug/net9.0/ProjectAlpha.Shared.AssemblyInfoInputs.cache
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Shared/obj/Debug/net9.0/ProjectAlpha.Shared.AssemblyInfo.cs
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Shared/obj/Debug/net9.0/ProjectAlpha.Shared.csproj.CoreCompileInputs.cache
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Shared/obj/Debug/net9.0/ProjectAlpha.Shared.dll
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Shared/obj/Debug/net9.0/refint/ProjectAlpha.Shared.dll
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Shared/obj/Debug/net9.0/ProjectAlpha.Shared.pdb
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Shared/obj/Debug/net9.0/ref/ProjectAlpha.Shared.dll

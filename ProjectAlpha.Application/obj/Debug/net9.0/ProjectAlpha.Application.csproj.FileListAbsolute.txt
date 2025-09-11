@@ -1,0 +1,17 @@
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Application/bin/Debug/net9.0/ProjectAlpha.Application.deps.json
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Application/bin/Debug/net9.0/ProjectAlpha.Application.dll
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Application/bin/Debug/net9.0/ProjectAlpha.Application.pdb
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Application/bin/Debug/net9.0/ProjectAlpha.Domain.dll
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Application/bin/Debug/net9.0/ProjectAlpha.Shared.dll
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Application/bin/Debug/net9.0/ProjectAlpha.Domain.pdb
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Application/bin/Debug/net9.0/ProjectAlpha.Shared.pdb
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Application/obj/Debug/net9.0/ProjectAlpha.Application.csproj.AssemblyReference.cache
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Application/obj/Debug/net9.0/ProjectAlpha.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Application/obj/Debug/net9.0/ProjectAlpha.Application.AssemblyInfoInputs.cache
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Application/obj/Debug/net9.0/ProjectAlpha.Application.AssemblyInfo.cs
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Application/obj/Debug/net9.0/ProjectAlpha.Application.csproj.CoreCompileInputs.cache
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Application/obj/Debug/net9.0/ProjectA.7DE07044.Up2Date
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Application/obj/Debug/net9.0/ProjectAlpha.Application.dll
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Application/obj/Debug/net9.0/refint/ProjectAlpha.Application.dll
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Application/obj/Debug/net9.0/ProjectAlpha.Application.pdb
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Application/obj/Debug/net9.0/ref/ProjectAlpha.Application.dll

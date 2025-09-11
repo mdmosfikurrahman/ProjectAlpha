@@ -1,0 +1,12 @@
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Domain/bin/Debug/net9.0/ProjectAlpha.Domain.deps.json
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Domain/bin/Debug/net9.0/ProjectAlpha.Domain.dll
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Domain/bin/Debug/net9.0/ProjectAlpha.Domain.pdb
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Domain/obj/Debug/net9.0/ProjectAlpha.Domain.csproj.AssemblyReference.cache
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Domain/obj/Debug/net9.0/ProjectAlpha.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Domain/obj/Debug/net9.0/ProjectAlpha.Domain.AssemblyInfoInputs.cache
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Domain/obj/Debug/net9.0/ProjectAlpha.Domain.AssemblyInfo.cs
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Domain/obj/Debug/net9.0/ProjectAlpha.Domain.csproj.CoreCompileInputs.cache
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Domain/obj/Debug/net9.0/ProjectAlpha.Domain.dll
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Domain/obj/Debug/net9.0/refint/ProjectAlpha.Domain.dll
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Domain/obj/Debug/net9.0/ProjectAlpha.Domain.pdb
+/home/mosfik/Personal/Projects/MockProjects/ProjectAlpha/ProjectAlpha.Domain/obj/Debug/net9.0/ref/ProjectAlpha.Domain.dll
