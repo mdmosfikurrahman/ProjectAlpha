@@ -1,4 +1,3 @@
-using ProjectAlpha.Configuration;
 using ProjectAlpha.Configuration.Services;
 
 var builder = WebApplication.CreateBuilder(args);
