@@ -9,7 +9,7 @@ namespace ProjectAlpha.WebAPI.Controllers;
 [Authorize]
 [ApiVersion("1.0")]
 [ApiVersion("2.0")]
-[Route("v{version:apiVersion}/airports")]
+[Route("api/v{version:apiVersion}/airports")]
 public class AirportsController(IAirportService service) : ControllerBase
 {
     [HttpGet]
